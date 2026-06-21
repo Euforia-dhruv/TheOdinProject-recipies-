@@ -1,4 +1,4 @@
-# Odin Project
+# The Odin Project
 My first repository.
 <br>
 Author-dhruv
